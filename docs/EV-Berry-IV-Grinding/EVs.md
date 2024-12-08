@@ -58,3 +58,28 @@ The most common, and only free way to earn EVs is through batlling trainers, all
 |SASSY  |4  |4  |4  |0  |4     |6     |
 |SERIOUS|6  |2  |4  |4  |2     |4     |
 |TIMID  |4  |0  |4  |6  |4     |4     |
+
+### Stat Boosting Items
+
+Items can be bought, or found on routes which raise your Pokémon's EVs.
+
+- **Vitamins** raise a stat. by 10 (assuming the 510 total is not hit), but stop working once the stat is 100 or above. 
+- **Feathers** raise a stat by 1 and are only limited by the 510 total.				
+
+### Stat Boosting Held Items
+
+These are held items which give an additional EVs to your Pokémon holding them which were part of your party during trainer battles, care must be taken as your speed is halved:
+
+|Item | EV Bonus |
+|-----|-----------|
+|Power Weight| 8 HP	|
+|Power Bracer|	 8 Atk |	
+|Power Belt|	8 Def	|
+|Power Lens |	8 Sp. Atk	|
+|Power Band|	8 Sp. Def	|
+|Power Anklet| 8	Spd	|
+|Macho Brace |	2 x EVs earned from battle |	
+
+### Pokérus
+
+Pokérus much like Macho Brace adds a 2x multiplier to your EV rewards (these two stack). It is however, much rarer, and the only way to get it in the HUB is through catching infected Pokémon in the Safari Zone (the Pokémon had to have already started with Pokerus when first caught in a run).													
