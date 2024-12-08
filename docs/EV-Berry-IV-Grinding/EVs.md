@@ -75,9 +75,9 @@ These are held items which give an additional EVs to your Pokémon holding them 
 |Power Weight| 8 HP	|
 |Power Bracer|	 8 Atk |	
 |Power Belt|	8 Def	|
+|Power Anklet| 8	Spd	|
 |Power Lens |	8 Sp. Atk	|
 |Power Band|	8 Sp. Def	|
-|Power Anklet| 8	Spd	|
 |Macho Brace |	2 x EVs earned from battle |	
 
 ### Pokérus
