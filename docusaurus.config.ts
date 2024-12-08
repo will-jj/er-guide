@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ER Guide',
   tagline: 'A guide for Emerald Rogue 2.X',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/wob.png',
 
   // Set the production url of your site here
   url: 'https://will-jj.github.io',
@@ -72,7 +72,7 @@ const config: Config = {
       title: 'Home',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/wob.png',
       },
       items: [
         {
