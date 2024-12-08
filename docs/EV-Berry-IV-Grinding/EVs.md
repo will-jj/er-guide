@@ -82,4 +82,4 @@ These are held items which give an additional EVs to your Pokémon holding them 
 
 ### Pokérus
 
-Pokérus much like Macho Brace adds a 2x multiplier to your EV rewards (these two stack). It is however, much rarer, and the only way to get it in the HUB is through catching infected Pokémon in the Safari Zone (the Pokémon had to have already started with Pokerus when first caught in a run).													
+Pokérus much like Macho Brace adds a 2x multiplier to your EV rewards (these two stack). It is however, much rarer, and the only way to get it in the HUB is through catching infected Pokémon in the Safari Zone (the Pokémon had to have already started with Pokérus when first caught in a run).													
