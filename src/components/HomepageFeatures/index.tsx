@@ -10,38 +10,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Origins',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This guide is built from the work of TailsMK4 on the Emerald Rogue Discord, with the aims of making contributing to the guide more accessible, & improving the presentation accross a variety of devices.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Early Days',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Currently this is not much more than the scaffolding website, please be patient as it is built upon.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Focussed on the EX Version',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As with the current guide, this will be focussed on the expansion version, and in future may tailor itself to leading fan patches, this may be implemented with a version dropdown - but at a minimum the changelog will be made avaialble.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
